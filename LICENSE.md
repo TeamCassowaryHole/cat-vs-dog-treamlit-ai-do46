@@ -1,4 +1,4 @@
-# 
+# 自定义 Cat vs Dog Classifier with PyTorch and Streamlit 模板。集成 AI伦理 和 图像识别，性能最大化。
 
 
 
